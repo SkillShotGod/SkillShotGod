@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkillShotGod
 - 🪪  My non-digital identity is Mayank Pujari
 - 👀 I’m interested in Coding, Development and just playing around with computer codes
-- 🌱 I’m currently learning Django and hopefully vue after that
+- 🌱 I’m currently learning Django and React
 - 💞️ I’m looking to find a suitable job
 - 📫 Reach me through Email at Mayankpujari118@gmail.com
 
